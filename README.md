@@ -38,4 +38,11 @@
   <img width="12" />
 </div> 
 <h2 align="left">Contact</h2> 
-<p align="left"> 📧 <b>Email:</b> manglvisha@gmail.com &nbsp; - &nbsp; 📞 <b>Phone:</b> +91‑8059135855<br> 🔗 <b>LinkedIn:</b> https://www.linkedin.com/in/vishal-mangla-a1aaaa201/ &nbsp; - &nbsp; 🌐 <b>Portfolio:</b> https://vishal9151.framer.website/ </p> <h2 align="left">More about me</h2> <ul align="left"> <li><b>Education:</b> B.Tech in Electronics (Instrumentation & Control), JC Bose University YMCA, CGPA 7.5 (2019–2023).</li> <li><b>Internships:</b> Vudio.ai — CMS-based one‑to‑one call integration; Binario Technology — DoBiz ERP migration (Angular → React) and reusable component library.</li> </ul>
+<div>📧 <b>Email:</b> manglvisha@gmail.com</div>
+
+<div>📞 <b>Phone:</b> +91‑8059135855</div>
+
+<div>🔗 <b>LinkedIn:</b> https://www.linkedin.com/in/vishal-mangla-a1aaaa201/</div>
+
+<div>🌐 <b>Portfolio:</b> https://vishal9151.framer.website/</div>
+</p> <h2 align="left">More about me</h2> <ul align="left"> <li><b>Education:</b> B.Tech in Electronics (Instrumentation & Control), JC Bose University YMCA, CGPA 7.5 (2019–2023).</li> <li><b>Internships:</b> Vudio.ai — CMS-based one‑to‑one call integration; Binario Technology — DoBiz ERP migration (Angular → React) and reusable component library.</li> </ul>
